@@ -1,0 +1,31 @@
+==============================
+Number of dies 2
+Number of sides 10
+Number of trials =  10000
+[  1.   2.   3.   4.   5.   6.   7.   8.   9.  10.]
+mean = 11.0
+variance = 16.5
+standard deviation = 4.06201920232
+Elapsed time = 0.17640029368304963
+theory mean value =  10.9514
+theory varance value =  16.80083804
+theory standard deviaction =  4.09888253552
+error theory mean value =  0.443778877586 %
+error theory varance value =  1.79061329729 %
+error theory standard deviaction =  0.899350808023 %
+==============================
+Number of dies 10
+Number of sides 20
+Number of trials =  10000
+[  1.   2.   3.   4.   5.   6.   7.   8.   9.  10.  11.  12.  13.  14.  15.
+  16.  17.  18.  19.  20.]
+mean = 105.0
+variance = 332.5
+standard deviation = 18.2345825288
+Elapsed time = 0.597239502213375
+theory mean value =  104.9488
+theory varance value =  332.18877856
+theory standard deviaction =  18.2260467068
+error theory mean value =  0.0487856935953 %
+error theory varance value =  0.0936881255727 %
+error theory standard deviaction =  0.0468330960919 %
